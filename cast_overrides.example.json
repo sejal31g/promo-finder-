@@ -1,0 +1,7 @@
+{
+  "SOME GENERIC LABEL": {"to": "Canonical Character Name", "episodes": [1, 10]},
+  "ANOTHER LABEL": [
+    {"to": "Character A", "episodes": [2, 2]},
+    {"to": "Character B", "episodes": [27, 44]}
+  ]
+}

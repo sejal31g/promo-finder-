@@ -1,0 +1,5 @@
+data/
+output/
+cast_overrides.json
+*.zip
+__pycache__/
